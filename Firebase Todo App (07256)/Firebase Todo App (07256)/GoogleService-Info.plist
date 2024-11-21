@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCJLm5ko3LMTco4Gwr3HrtmNxOUZbs55cY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>462858253876</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>D.Firebase-Todo-App--07256-</string>
+	<key>PROJECT_ID</key>
+	<string>todolist-bd143</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todolist-bd143.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:462858253876:ios:e8b86d1e71ef6e3d7bbc61</string>
+</dict>
+</plist>
